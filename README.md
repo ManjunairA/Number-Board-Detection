@@ -26,6 +26,7 @@ Once the characters of plate is obtained and model is trained, the model is load
 
 ## Setup
 
+
 Clone the repository.
 
 Change the path of the image/video file in DetectPlate.py
